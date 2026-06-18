@@ -24,9 +24,13 @@ The project demonstrates practical implementation of Laravel best practices incl
 
 ![User Management](screenshots/Usermm.png)
 
-### Add Customer And Booking Rooms
+### Add User And Booking Rooms
 
-![Add Customer](screenshots/Customer.png)
+![Add User](screenshots/Customer.png)
+
+### User Select Booking Rooms
+
+![Select Booking Rooms](screenshots/select-rooms.png)
 
 ### Transaction Management
 
@@ -36,9 +40,9 @@ The project demonstrates practical implementation of Laravel best practices incl
 
 ![Invoice Management](screenshots/invoice.png)
 
-### Activity Logs
+### Database Table Relations
 
-![Activity Logs](screenshots/activity-log.png)
+![Table Relations](screenshots/erd.png)
 
 ---
 
@@ -277,11 +281,11 @@ This project demonstrates:
 
 ## 👨‍💻 Developer
 
-**Avi Sisodia**
+**Arvind Singh**
 
 PHP Developer | Laravel Developer
 
-**Experience:** 9+ Years
+**Experience:** 10+ Years
 
 ---
 
