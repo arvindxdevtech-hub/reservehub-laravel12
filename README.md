@@ -285,8 +285,6 @@ This project demonstrates:
 
 PHP Developer | Laravel Developer
 
-**Experience:** 10+ Years
-
 ---
 
 ### Repository Topics
